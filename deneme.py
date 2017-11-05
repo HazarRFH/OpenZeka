@@ -4,3 +4,4 @@ a = b
 g = h
 i like memes
 kokoreççiye gidicek miyiz
+ben gitmiyecegim
