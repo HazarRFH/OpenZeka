@@ -3,5 +3,5 @@ i = 99
 a = b
 g = h
 i like memes
-kokoreççiye gidicek miyiz
-ben gitmiyecegim
+kokoreççiye gidicek m
+flashbang out!!!
